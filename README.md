@@ -1,3 +1,9 @@
+# my_take Solution to the Challenge
+
+For the approach taken to solve the challenge, steps have been highlighted in the notebook file **"toarstn92_Data-Analytics-Course-Project.ipynb"**
+
+
+
 # Data-Analytics-Course-Project
 
 For the project, you are provided with a dataset to analyze using the skills learned in the course.
@@ -41,9 +47,3 @@ e.g. Special:Search_fr.wikipedia.org_all-access_all-agents is written in French 
 For example, consider Barack Obama's wikipedia page:
 * Barack_Obama_en.wikipedia.org_desktop_all-agents : these visits came from desktop devices.
 * Barack_Obama_en.wikipedia.org_mobile-web_all-agents: these visits came from mobile devices.
-
-
-
-# My-Solution
-
-For the approach taken to solve the challenge, steps have been highlighted in the notebook file **"toarstn92_Data-Analytics-Course-Project.ipynb"**
